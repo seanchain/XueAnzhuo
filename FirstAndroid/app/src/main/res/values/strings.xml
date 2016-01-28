@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_des">This is a button for clicking on</string>
+</resources>
